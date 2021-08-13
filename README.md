@@ -33,11 +33,14 @@ Technology: https://github.com/LLLichtenstein/MSPTC-Portfolio/blob/main/research
 > > https://github.com/LLLichtenstein/MSPTC-Portfolio/blob/main/research_ethics.pdf
 ### Writing
 > > #### Use of Verbs in "I Have Dreamed"
-> > This essay on "I Have Dreamed" from The King and I by Oscar and Hammerstein explores the use of verbs in the song, especially the verb dreamed. <br>
+> > This essay on "I Have Dreamed" from The King and I by Oscar and Hammerstein explores the use of verbs in the song, especially the verb dreamed. <br><br>
+> > "I Have Dreamed": https://github.com/LLLichtenstein/MSPTC-Portfolio/blob/main/writing_dreamed.pdf
 > > #### Design Principles of Don Norman
-> > This essay, "my toaster is a happy toaster…", was written to illustrate how the design of a product I own, my toaster, conforms to the design principles Don Norman talks about in his presentation, "Three Ways Good Design Makes You Happy".<br>
+> > This essay, "my toaster is a happy toaster…", was written to illustrate how the design of a product I own, my toaster, conforms to the design principles Don Norman talks about in his presentation, "Three Ways Good Design Makes You Happy".<br><br>
+> > "My toaster is a happy toaster…" : 
 > > #### Examination of Red Oval by Kandinsky
-> > This essay, "An Examination of Kandinsky's Painting, Red Oval", considers it in terms of my emotional reactions and its formal elements (color, shape, movement, and line). <br>
+> > This essay, "An Examination of Kandinsky's Painting, Red Oval", considers it in terms of my emotional reactions and its formal elements (color, shape, movement, and line). <br><br>
+> > "An Examination of Kandinsky's Painting, Red Oval": 
 ### Blog
 > > #### Technical Communication for the Visual Artist blog
 > > This blog focuses on technical communication and visual design concepts for web sites.
