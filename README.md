@@ -37,7 +37,7 @@ Technology: https://github.com/LLLichtenstein/MSPTC-Portfolio/blob/main/research
 > > "I Have Dreamed": https://github.com/LLLichtenstein/MSPTC-Portfolio/blob/main/writing_dreamed.pdf
 > > #### Design Principles of Don Norman
 > > This essay, "my toaster is a happy toaster…", was written to illustrate how the design of a product I own, my toaster, conforms to the design principles Don Norman talks about in his presentation, "Three Ways Good Design Makes You Happy".<br><br>
-> > "My toaster is a happy toaster…" : 
+> > "My toaster is a happy toaster…" : https://github.com/LLLichtenstein/MSPTC-Portfolio/blob/main/writing_happy_toaster.pdf
 > > #### Examination of Red Oval by Kandinsky
 > > This essay, "An Examination of Kandinsky's Painting, Red Oval", considers it in terms of my emotional reactions and its formal elements (color, shape, movement, and line). <br><br>
 > > "An Examination of Kandinsky's Painting, Red Oval": 
