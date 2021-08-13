@@ -43,7 +43,8 @@ Technology: https://github.com/LLLichtenstein/MSPTC-Portfolio/blob/main/research
 > > "An Examination of Kandinsky's Painting, Red Oval": https://github.com/LLLichtenstein/MSPTC-Portfolio/blob/main/writing_kandinsky.pdf
 ### Blog
 > > #### Technical Communication for the Visual Artist blog
-> > This blog focuses on technical communication and visual design concepts for web sites.
+> > This blog focuses on technical communication and visual design concepts for web sites. <br>
+> > http://lindaloudesigns.blogspot.com/search?updated-min=2016-01-01T00:00:00-08:00&updated-max=2017-01-01T00:00:00-08:00&max-results=1
 ### Editing
 > > #### Editing Illustrations and Websites
 > > This is a critique of The New York City Ballet's print material and web site according to the "List of major concerns editors should have when reviewing illustrations and websites." <br>
