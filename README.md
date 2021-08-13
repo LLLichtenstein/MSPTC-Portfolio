@@ -27,7 +27,7 @@ Relationships to Socio-cognitive Theory and Affective Learning: https://github.c
 > > #### The Convergence of Art and Science
 > > This essay explores the convergence of art and science throughout history with special emphasis on the camera obscura, the telescope and microscope, photography, and digital technology. Contemporary digital artwork by Seth Darling and Steven Sibener, Ariel Ruiz i Altaba, Joan Fontcuberta, Christa Sommerer and Laurent Mignonneau, and artificial life by Thomas Ray and Christoph Adami are analyzed.<br>
 > > The Convergence of Art and Science in History and Contemporary Digital
-Technology: 
+Technology: https://github.com/LLLichtenstein/MSPTC-Portfolio/blob/main/research_art_and_science.pdf
 > > #### Research Ethics
 > > This essay discusses ethical principles and guidelines as well as the tenets of three great philosophers – Mill, Kant, and Rawles – as they relate to research in Professional and Technical Communication.<br>
 ### Writing
