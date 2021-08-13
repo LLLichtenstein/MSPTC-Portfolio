@@ -23,7 +23,7 @@
 > > #### New Media Theory and Digital Gaming
 > > This essay focuses on New Media Theory generally, and digital games specifically. The historical backgrounds of New Media Theory and games are explored as well as the ways in which they account for phenomena in the social world, their typology, and their relationships to Socio-cognitive Theory and Affective Learning.<br><br>
 > > An Overview of New Media Theory and Digital Gaming: History, Typology, Sequence, and
-Relationships to Socio-cognitive Theory and Affective Learning: 
+Relationships to Socio-cognitive Theory and Affective Learning: https://github.com/LLLichtenstein/MSPTC-Portfolio/blob/main/research_new_media.pdf
 > > #### The Convergence of Art and Science
 > > This essay explores the convergence of art and science throughout history with special emphasis on the camera obscura, the telescope and microscope, photography, and digital technology. Contemporary digital artwork by Seth Darling and Steven Sibener, Ariel Ruiz i Altaba, Joan Fontcuberta, Christa Sommerer and Laurent Mignonneau, and artificial life by Thomas Ray and Christoph Adami are analyzed.<br>
 > > #### Research Ethics
