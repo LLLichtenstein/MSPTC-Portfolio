@@ -30,6 +30,7 @@ Relationships to Socio-cognitive Theory and Affective Learning: https://github.c
 Technology: https://github.com/LLLichtenstein/MSPTC-Portfolio/blob/main/research_art_and_science.pdf
 > > #### Research Ethics
 > > This essay discusses ethical principles and guidelines as well as the tenets of three great philosophers – Mill, Kant, and Rawles – as they relate to research in Professional and Technical Communication.<br>
+> > https://github.com/LLLichtenstein/MSPTC-Portfolio/blob/main/research_ethics.pdf
 ### Writing
 > > #### Use of Verbs in "I Have Dreamed"
 > > This essay on "I Have Dreamed" from The King and I by Oscar and Hammerstein explores the use of verbs in the song, especially the verb dreamed. <br>
