@@ -47,11 +47,21 @@ Technology: https://github.com/LLLichtenstein/MSPTC-Portfolio/blob/main/research
 > > http://lindaloudesigns.blogspot.com/search?updated-min=2016-01-01T00:00:00-08:00&updated-max=2017-01-01T00:00:00-08:00&max-results=1
 ### Editing
 > > #### Editing Illustrations and Websites
-> > This is a critique of The New York City Ballet's print material and web site according to the "List of major concerns editors should have when reviewing illustrations and websites." <br>
+> > This is a critique of The New York City Ballet's print material and web site according to the "List of major concerns editors should have when reviewing illustrations and websites." <br><br>
+> > Critique of New York City Ballet print and website: 
+> > List of major concerns editors should have when reviewing illustrations and websites: 
 > > #### Quantitative Information Table Design
-> > I redesigned a table of quantitative information to be more concise and easier to read.<br>
+> > I redesigned a table of quantitative information to be more concise and easier to read.<br><br>
+> > Original table:
+> > Redesigned table: 
 > > #### Punctuation Exercise
-> > I edited the passages in this assignment for punctuation, and provided warrants for my revisions. <br>
+> > I edited the passages in this assignment for punctuation, and provided warrants for my revisions. <br><br>
+> > Original passages:
+> > Final passages with markup:
+> > Final passages without markup:
 > > #### Nouns and Pronouns Exercise
-> > I edited the passages in this assignment for proper use of nouns and pronouns, and provided warrants for my revisions. <br>
+> > I edited the passages in this assignment for proper use of nouns and pronouns, and provided warrants for my revisions. <br><br>
+> > Original passages:
+> > Final passages with markup:
+> > Final passages without markup: 
 
