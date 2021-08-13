@@ -48,7 +48,7 @@ Technology: https://github.com/LLLichtenstein/MSPTC-Portfolio/blob/main/research
 ### Editing
 > > #### Editing Illustrations and Websites
 > > This is a critique of The New York City Ballet's print material and web site according to the "List of major concerns editors should have when reviewing illustrations and websites." <br><br>
-> > Critique of New York City Ballet print and website: 
+> > Critique of New York City Ballet print and website: https://github.com/LLLichtenstein/MSPTC-Portfolio/blob/main/editing_nycb_critique.pdf <br>
 > > List of major concerns editors should have when reviewing illustrations and websites: 
 > > #### Quantitative Information Table Design
 > > I redesigned a table of quantitative information to be more concise and easier to read.<br><br>
