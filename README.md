@@ -30,3 +30,18 @@
 > > #### Examination of Red Oval by Kandinsky
 > > This essay, "An Examination of Kandinsky's Painting, Red Oval", considers it in terms of my emotional reactions and its formal elements (color, shape, movement, and line). <br>
 ### Editing
+> > #### Editing Illustrations and Websites
+> > This is a critique of The New York City Ballet's print material and web site according to the "List of major concerns editors should have when reviewing illustrations and websites." <br>
+> > #### Quantitative Information Table Design
+> > I redesigned a table of quantitative information to be more concise and easier to read.<br>
+> > #### Punctuation Exercise
+> > I edited the passages in this assignment for punctuation, and provided warrants for my revisions. <br>
+> > #### Nouns and Pronouns Exercise
+> > I edited the passages in this assignment for proper use of nouns and pronouns, and provided warrants for my revisions. <br>
+### Research
+> > #### New Media Theory and Digital Gaming
+> > This essay focuses on New Media Theory generally, and digital games specifically. The historical backgrounds of New Media Theory and games are explored as well as the ways in which they account for phenomena in the social world, their typology, and their relationships to Socio-cognitive Theory and Affective Learning.<br>
+> > #### The Convergence of Art and Science
+> > This essay explores the convergence of art and science throughout history with special emphasis on the camera obscura, the telescope and microscope, photography, and digital technology. Contemporary digital artwork by Seth Darling and Steven Sibener, Ariel Ruiz i Altaba, Joan Fontcuberta, Christa Sommerer and Laurent Mignonneau, and artificial life by Thomas Ray and Christoph Adami are analyzed.<br>
+> > #### Research Ethics
+> > This essay discusses ethical principles and guidelines as well as the tenets of three great philosophers – Mill, Kant, and Rawles – as they relate to research in Professional and Technical Communication.<br>
