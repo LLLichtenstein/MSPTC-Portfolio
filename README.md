@@ -40,7 +40,7 @@ Technology: https://github.com/LLLichtenstein/MSPTC-Portfolio/blob/main/research
 > > "My toaster is a happy toaster…" : https://github.com/LLLichtenstein/MSPTC-Portfolio/blob/main/writing_happy_toaster.pdf
 > > #### Examination of Red Oval by Kandinsky
 > > This essay, "An Examination of Kandinsky's Painting, Red Oval", considers it in terms of my emotional reactions and its formal elements (color, shape, movement, and line). <br><br>
-> > "An Examination of Kandinsky's Painting, Red Oval": 
+> > "An Examination of Kandinsky's Painting, Red Oval": https://github.com/LLLichtenstein/MSPTC-Portfolio/blob/main/writing_kandinsky.pdf
 ### Blog
 > > #### Technical Communication for the Visual Artist blog
 > > This blog focuses on technical communication and visual design concepts for web sites.
