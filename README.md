@@ -1,6 +1,7 @@
 # Professional and Technical Communication Master's Degree Portfolio
 ## Projects
 ### Usability Study for an Animal Anatomy & Physiology eLearning application
+> > https://github.com/LLLichtenstein/Usability-Study-for-an-eLearning-Application/blob/main/README.md <br>
 ### Social Media Game - Pathogens Against the Body
 > > Participants create a pathogen avatar. This game is part of my Animal Anatomy & Physiology eLearning application and was originally implemented in WordPress.
 #### Design 
