@@ -25,7 +25,7 @@
 > > An Overview of New Media Theory and Digital Gaming: History, Typology, Sequence, and
 Relationships to Socio-cognitive Theory and Affective Learning: https://github.com/LLLichtenstein/MSPTC-Portfolio/blob/main/research_new_media.pdf
 > > #### The Convergence of Art and Science
-> > This essay explores the convergence of art and science throughout history with special emphasis on the camera obscura, the telescope and microscope, photography, and digital technology. Contemporary digital artwork by Seth Darling and Steven Sibener, Ariel Ruiz i Altaba, Joan Fontcuberta, Christa Sommerer and Laurent Mignonneau, and artificial life by Thomas Ray and Christoph Adami are analyzed.<br>
+> > This essay explores the convergence of art and science throughout history with special emphasis on the camera obscura, the telescope and microscope, photography, and digital technology. Contemporary digital artwork by Seth Darling and Steven Sibener, Ariel Ruiz i Altaba, Joan Fontcuberta, Christa Sommerer and Laurent Mignonneau, and artificial life by Thomas Ray and Christoph Adami are analyzed.<br><br>
 > > The Convergence of Art and Science in History and Contemporary Digital
 Technology: https://github.com/LLLichtenstein/MSPTC-Portfolio/blob/main/research_art_and_science.pdf
 > > #### Research Ethics
