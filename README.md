@@ -1,5 +1,9 @@
 # Professional and Technical Communication Master's Degree Portfolio
 ## Projects
+Created a Veterinary Anatomy and Physiology eLearning application targeted towards biological science undergraduates. Conducted usability tests with four participants. Created personas and scenarios, performed a competitive analysis and heuristic evaluation, created storyboards, developed a wireframe prototype, wrote interview guides and test protocols, statistically analyzed and documented test results, and provided recommendations and conclusions. Resulted in outperforming the course requirements and a merit award. In addition, resulted in a presentation at James Madison University (Harrisonburg, VA), and two research events at New Jersey Institute of Technology (Newark, NJ) - the NJIT Poster Showcase and the NJIT Graduate Student Association Poster Competition.
+
+Developed a Social Media game to create a microbial avatar, originally in WordPress, to accompany my Veterinary Anatomy and Physiology eLearning application. Researched Participatory Culture and Gaming and curated relevant photos on Flickr. Resulted in a successfully implemented Social Media website.
+
 ### Usability Study for an Animal Anatomy & Physiology eLearning application
 > > For this usability study I created a Veterinary Anatomy and Physiology eLearning application targeted towards biological science undergraduates. As part of the project, I wrote supporting test documentation such as personas and scenarios, competitive analyses, storyboards, prototypes, and test protocols. I conducted usability interviews with the Paper Prototyping with Blank Pages technique with four undergraduate students at a local university. I statistically analyzed the test results and offered recommendations. <br><br>
 > > I presented my study at a graduate student symposium at James Madison University, Harrisonburg, Virginia and at two New Jersey Institute of Technology graduate student events.<br><br>
