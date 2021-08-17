@@ -1,4 +1,4 @@
-# Professional and Technical Communication Master's Degree Portfolio
+# Professional and Technical Communication Master's Degree (MSPTC) Portfolio
 ## Projects
 Created a Veterinary Anatomy and Physiology eLearning application targeted towards biological science undergraduates. Conducted usability tests with four participants. Created personas and scenarios, performed a competitive analysis and heuristic evaluation, created storyboards, developed a wireframe prototype, wrote interview guides and test protocols, statistically analyzed and documented test results, and provided recommendations and conclusions. Resulted in outperforming the course requirements and a merit award. In addition, resulted in a presentation at James Madison University (Harrisonburg, VA), and two research events at New Jersey Institute of Technology (Newark, NJ) - the NJIT Poster Showcase and the NJIT Graduate Student Association Poster Competition.
 
@@ -23,6 +23,7 @@ Developed a Social Media game to create a microbial avatar, originally in WordPr
 > > #### Research Abstract
 > > #### Research Project
 ## Technical Communication
+> > The following work products demonstrate skills I learned and sharpened in the MSPTC program. Specifically, the Research section includes essays on topics I researched on scientific and technical subjects. The essays in the Writing section shows my ability to write with clarity and style, as well as to organize information while the Editing section is comprised of exercises which correct grammar, and punctuation in given sample sentences. The blogs demonstrate a form of detailed and informative writing.
 ### Research
 > > #### New Media Theory and Digital Gaming
 > > This essay focuses on New Media Theory generally, and digital games specifically. The historical backgrounds of New Media Theory and games are explored as well as the ways in which they account for phenomena in the social world, their typology, and their relationships to Socio-cognitive Theory and Affective Learning.<br><br>
