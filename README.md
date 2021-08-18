@@ -1,12 +1,12 @@
 # Professional and Technical Communication Master's Degree (MSPTC) Portfolio
-> > This portfolio consists of two major sections, Projects and Technical Communication. <br><br>
+> > This portfolio consists of two major sections, Projects and Technical Communication, I completed as part of my Master's Degree in the MSPTC program at New Jersey Institute of Technology. <br><br>
 > > The projects section details my usability study and social media game and accompanying research and supporting work products. <br><br>
 > > The Technical Communication section is mainly comprised of essays I wrote on various topics and exercises in grammar and punctuation.<br><br>
 ## Projects
 > > The two projects presented are related to a Veterinary Anatomy and Physiology eLearning application I created. <br><br>
-> > The first project is a usability study I conducted with four biological science undergraduates. In addition to the usability test session documentation, supporting documentation leading up to the test session (such as a persona and scenario, competitive analysis and heuristic evaluation, storyboards, wireframe prototype, interview guides and test protocols) are provided as well as post-test session documentation (such as statistical analysis of test results, recommendations and conclusions).<br><br>
+> > The first project is a usability study I conducted with four biological science undergraduates. In addition to the usability test session documentation, supporting documentation leading up to the test session (including a persona and scenario, competitive analysis and heuristic evaluation, storyboards, wireframe prototype, interview guides and test protocols) are provided as well as post-test session documentation (including statistical analysis of test results, recommendations and conclusions).<br><br>
 
-The second project is a social media game to create a microbial avatar. In conjunction with the game I provide research I did on Participatory Culture and Gaming and as well as a presentation as well as curated relevant photos on Flickr.<br><br>
+The second project is a social media game whereby players create a microbial avatar. In conjunction with the game I provide research I did on Participatory Culture and Gaming and as well as a presentation and relevant photos curated on Flickr.<br><br>
 
 ### Usability Study for an Animal Anatomy & Physiology eLearning application
 > > For this usability study I created a Veterinary Anatomy and Physiology eLearning application targeted towards biological science undergraduates. As part of the project, I wrote supporting test documentation such as personas and scenarios, competitive analyses, storyboards, prototypes, and test protocols. I conducted usability interviews with the Paper Prototyping with Blank Pages technique with four undergraduate students at a local university. I statistically analyzed the test results and offered recommendations. <br><br>
