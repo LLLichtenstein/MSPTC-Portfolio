@@ -21,6 +21,7 @@ The second project is a social media game whereby players create a microbial ava
 > > ##### Flickr Gallery
 > > The gallery can be found at the following URL: https://www.flickr.com/photos/60721421@N07/galleries/72157626372437622/
 > > ##### Presentation
+> > https://github.com/LLLichtenstein/MSPTC-Portfolio/blob/main/social_media_presentation.pdf
 > > #### Website
 > > Participants create a pathogen avatar. This game is part of my Animal Anatomy & Physiology eLearning application and was originally implemented in WordPress.<br>
 > > #### Research
