@@ -24,6 +24,7 @@ The second project is a social media game whereby players create a microbial ava
 > > https://github.com/LLLichtenstein/MSPTC-Portfolio/blob/main/social_media_presentation.pdf
 > > #### Website
 > > Participants create a pathogen avatar. This game is part of my Animal Anatomy & Physiology eLearning application and was originally implemented in WordPress.<br>
+> > file:///C:/Users/Linda/Documents/Old%20Computer%20Files/ePortfolio%202016%20Original/social_media%20_Pathogens%20Against%20the%20Body.pdf
 > > #### Research
 > > In this research proposal I describe testing a software prototype of the game for knowledge gain and flow using both quantitative (eGameFlow) and qualitative (affective and meta-cognitive strategy) research methods.
 > > #### Research Abstract
