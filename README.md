@@ -1,4 +1,7 @@
 # Professional and Technical Communication Master's Degree (MSPTC) Portfolio
+> > This portfolio consists of two major sections, Projects and Technical Communication. <br><br>
+> > The projects section details my usability study and social media game and accompanying research and activities. <br><br>
+> > The Technical Communication section is mainly essays I wrote on various topics and exercises in grammar and punctuation.<br><br>
 ## Projects
 > > The two projects presented are related to a Veterinary Anatomy and Physiology eLearning application I created. <br><br>
 > > The first project is a usability study I conducted with four biological science undergraduates. In addition to the usability test session documentation, supporting documentation leading up to the test session (such as a persona and scenario, competitive analysis and heuristic evaluation, storyboards, wireframe prototype, interview guides and test protocols) are provided as well as post-test session documentation (such as statistical analysis of test results, recommendations and conclusions).<br><br>
