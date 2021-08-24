@@ -69,8 +69,8 @@ Technology: https://github.com/LLLichtenstein/MSPTC-Portfolio/blob/main/research
 > > #### Punctuation Exercise
 > > I edited the passages in this assignment for punctuation, and provided warrants for my revisions. <br><br>
 > > Original passages: https://github.com/LLLichtenstein/MSPTC-Portfolio/blob/main/editing_punct_orig.pdf<br>
-> > Final passages with markup: https://github.com/LLLichtenstein/MSPTC-Portfolio/blob/main/editing_punct_markup.pdf
-> > Final passages without markup:
+> > Final passages with markup: https://github.com/LLLichtenstein/MSPTC-Portfolio/blob/main/editing_punct_markup.pdf<br>
+> > Final passages without markup: https://github.com/LLLichtenstein/MSPTC-Portfolio/blob/main/editing_punct_final.pdf<br>
 > > #### Nouns and Pronouns Exercise
 > > I edited the passages in this assignment for proper use of nouns and pronouns, and provided warrants for my revisions. <br><br>
 > > Original passages:
