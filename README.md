@@ -65,10 +65,10 @@ Technology: https://github.com/LLLichtenstein/MSPTC-Portfolio/blob/main/research
 > > #### Quantitative Information Table Design
 > > I redesigned a table of quantitative information to be more concise and easier to read.<br><br>
 > > Original table: https://github.com/LLLichtenstein/MSPTC-Portfolio/blob/main/editing_quant_orig.pdf<br>
-> > Redesigned table: https://github.com/LLLichtenstein/MSPTC-Portfolio/blob/main/editing_quant.pdf
+> > Redesigned table: https://github.com/LLLichtenstein/MSPTC-Portfolio/blob/main/editing_quant.pdf<br>
 > > #### Punctuation Exercise
 > > I edited the passages in this assignment for punctuation, and provided warrants for my revisions. <br><br>
-> > Original passages:
+> > Original passages: https://github.com/LLLichtenstein/MSPTC-Portfolio/blob/main/editing_punct_orig.pdf<br>
 > > Final passages with markup:
 > > Final passages without markup:
 > > #### Nouns and Pronouns Exercise
