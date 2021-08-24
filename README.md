@@ -6,13 +6,13 @@
 > > The two projects presented are related to a Veterinary Anatomy and Physiology eLearning application I created. <br><br>
 > > The first project, Usability Study for an Animal Anatomy & Physiology eLearning application, is a usability study I conducted with four biological science undergraduates. In addition to the usability test session documentation, supporting documentation leading up to the test session (including a persona and scenario, competitive analysis and heuristic evaluation, storyboards, wireframe prototype, interview guides and test protocols) are provided as well as post-test session documentation (including statistical analysis of test results, recommendations and conclusions).<br><br>
 > > The second project, Social Media and Gaming, focuses on educational gaming and includes a game I created called Pathogens Against the Body, research on testing educational game software, and a Flickr gallery depicting Participatory Culture and Social Media. <br><br>
-### Usability Study for an Animal Anatomy & Physiology eLearning application
+> > ### Usability Study for an Animal Anatomy & Physiology eLearning application
 > > For this usability study I created a Veterinary Anatomy and Physiology eLearning application targeted towards biological science undergraduates. As part of the project, I wrote supporting test documentation such as a persona and scenario, competitive analyses, storyboards, prototypes, and test protocols. I conducted usability interviews with the Paper Prototyping with Blank Pages technique with four undergraduate students at a local university. I statistically analyzed the test results and offered recommendations. <br><br>
 > > I presented my study at a graduate student symposium at James Madison University, Harrisonburg, Virginia and at two New Jersey Institute of Technology graduate student events.<br><br>
 > > My effort on this project outperformed the course requirements and led to a Merit Award.<br><br>
 > > The study can be found in the following repository:<br>
 > > https://github.com/LLLichtenstein/Usability-Study-for-an-eLearning-Application/blob/main/README.md <br>
-### Social Media and Gaming 
+> > ### Social Media and Gaming 
 > > In this section, I focus on educational gaming in three ways.<br>
 > > 1. Social Media Game *Pathogens Against the Body*, <br>
 > > 2. Research on testing an educational game prototye for knowledge gain and flow, and  <br>
