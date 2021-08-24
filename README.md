@@ -20,17 +20,12 @@
 > > #### Social Media Game *Pathogens Against the Body*
 > > Originally implemented in WordPress, I created this social media game to accompany my Animal Anatomy & Physiology eLearning application presented above. <br><br>
 > > Players use their creativity to create an avatar that depicts the characteristics of a pathogen in dogs and play a game that mimics that microbes' pathogenicity and the body's response. <br>
-> > file:///C:/Users/Linda/Documents/Old%20Computer%20Files/ePortfolio%202016%20Original/social_media%20_Pathogens%20Against%20the%20Body.pdf
-
+> > https://github.com/LLLichtenstein/MSPTC-Portfolio/blob/main/social_media%20_Pathogens%20Against%20the%20Body.pdf<br><br>
 > > #### Research
-> > Research In this research proposal I describe testing a software prototype of the game for knowledge gain and flow using both quantitative (eGameFlow) and qualitative (affective and meta-cognitive strategy) research methods.
-
-
-
 > > In this research proposal I describe testing a software prototype of the game for knowledge gain and flow using both quantitative (eGameFlow) and qualitative (affective and meta-cognitive strategy) research methods.
-> > #### Research Abstract
+> > #### Abstract
 > > https://github.com/LLLichtenstein/MSPTC-Portfolio/blob/main/social_media_abstract.pdf
-> > #### Research Project
+> > #### Project
 
 > > #### Design - Social Media - Participatory Culture Flickr Gallery and Presentation
 > > Flickr Gallery and created this presentation to depict educational gaming as it relates to Participatory Culture and Social Media.
