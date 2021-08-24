@@ -30,7 +30,7 @@ The second project is a social media game whereby players create a microbial ava
 > > #### Research Abstract
 > > #### Research Project
 ## Technical Communication
-> > The following work products demonstrate skills I learned and sharpened in the MSPTC program. Specifically, the Research section includes essays on topics I researched on scientific and technical subjects. The essays in the Writing section shows my ability to write with clarity and style, as well as to organize information while the Editing section is comprised of exercises which correct grammar, and punctuation in given sample sentences according to style guides such as *The Chicago Manual of Style*. The blogs demonstrate a form of detailed and informative writing.
+> > The following work products demonstrate skills I learned and sharpened in the MSPTC program. Specifically, the Research section includes essays on topics I researched on scientific and technical subjects. The essays in the Writing section shows my ability to write with clarity and style, as well as to organize information while the Editing section is comprised of exercises which correct grammar, and punctuation in given sample sentences according to style guides such as *The Chicago Manual of Style* and the *MLA Handbook*. The blogs demonstrate a form of detailed and informative writing.
 ### Researchg
 > > #### New Media Theory and Digital Gaming
 > > This essay focuses on New Media Theory generally, and digital games specifically. The historical backgrounds of New Media Theory and games are explored as well as the ways in which they account for phenomena in the social world, their typology, and their relationships to Socio-cognitive Theory and Affective Learning.<br><br>
