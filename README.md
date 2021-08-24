@@ -13,7 +13,12 @@
 > > The study can be found in the following repository:<br>
 > > https://github.com/LLLichtenstein/Usability-Study-for-an-eLearning-Application/blob/main/README.md <br>
 ### Social Media and Gaming 
-The second project, Social Media and Gaming, focuses on educational gaming and includes research on testing educational game software, a Flickr gallery depicting Participatory Culture and Social Media, and a game I created called Pathogens Against the Body. 
+The second project, Social Media and Gaming, focuses on educational gaming and includes a game I created called Pathogens Against the Body, research on testing educational game software, and a Flickr gallery depicting Participatory Culture and Social Media.
+
+> > In this section, I focus on educational gaming in three ways.<br>
+> > 1. Social Media Game *Pathogens Against the Body*, <br>
+> > 2. Research on testing an educational game prototye for knowledge gain and flow, and  <br>
+> > 3. Flickr gallery and presentation on Participatory Culture and Social Media in educational gaming. <br>
 
 Social Media Game - Pathogens Against the Body, is a social media game whereby players create and do battle with microbial avatars that mimic the characteristics and pathogenicity of infectious organisms found in dogs. Second, Research, In conjunction with the game I provide research I did on gaming in education and a Flickr gallery and presentation on Participatory Culture and Gaming.
 > > Game Participants create a pathogen avatar. This game is part of my Animal Anatomy & Physiology eLearning application and was originally implemented in WordPress.
@@ -23,6 +28,8 @@ Social Media Game - Pathogens Against the Body, is a social media game whereby p
 > > Flickr Gallery and created this presentation to depict educational gaming as it relates to Participatory Culture and Social Media.
 
 > > #### Social Media Game - Pathogens Against the Body
+> >  Social Media Game *Pathogens Against the Body* is a game I created that allows students to use their creativity to create an avatar that depicts a pathogen in dogs and play a game that mimics that microbes' pathogenicity and the body's response. <br>
+> >  Social Media Game - Pathogens Against the Body, is a social media game whereby players create and do battle with microbial avatars that mimic the characteristics and pathogenicity of infectious organisms found in dogs.
 > > In this game, originally implemented in WordPress, players create a pathogen avatar.<br>
 > > file:///C:/Users/Linda/Documents/Old%20Computer%20Files/ePortfolio%202016%20Original/social_media%20_Pathogens%20Against%20the%20Body.pdf
 
