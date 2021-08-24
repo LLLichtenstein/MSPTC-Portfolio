@@ -64,7 +64,7 @@ Technology: https://github.com/LLLichtenstein/MSPTC-Portfolio/blob/main/research
 > > List of major concerns editors should have when reviewing illustrations and websites: https://github.com/LLLichtenstein/MSPTC-Portfolio/blob/main/editing_editor_list.pdf <br>
 > > #### Quantitative Information Table Design
 > > I redesigned a table of quantitative information to be more concise and easier to read.<br><br>
-> > Original table:
+> > Original table: https://github.com/LLLichtenstein/MSPTC-Portfolio/blob/main/editing_quant_orig.pdf<br>
 > > Redesigned table: 
 > > #### Punctuation Exercise
 > > I edited the passages in this assignment for punctuation, and provided warrants for my revisions. <br><br>
