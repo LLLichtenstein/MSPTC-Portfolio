@@ -73,7 +73,7 @@ Technology: https://github.com/LLLichtenstein/MSPTC-Portfolio/blob/main/research
 > > Final passages without markup: https://github.com/LLLichtenstein/MSPTC-Portfolio/blob/main/editing_punct_final.pdf<br>
 > > #### Nouns and Pronouns Exercise
 > > I edited the passages in this assignment for proper use of nouns and pronouns, and provided warrants for my revisions. <br><br>
-> > Original passages:
+> > Original passages: https://github.com/LLLichtenstein/MSPTC-Portfolio/blob/main/editing_nouns_orig.pdf
 > > Final passages with markup:
 > > Final passages without markup: 
 
