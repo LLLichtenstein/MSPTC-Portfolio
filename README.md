@@ -17,12 +17,12 @@
 > > 1. Social Media Game *Pathogens Against the Body*, <br>
 > > 2. Research on testing an educational game prototye for knowledge gain and flow, and  <br>
 > > 3. Flickr gallery and presentation on Participatory Culture and Social Media in educational gaming. <br>
-#### Social Media Game *Pathogens Against the Body*
+> > #### Social Media Game *Pathogens Against the Body*
 > > Originally implemented in WordPress, I created this social media game to accompany my Animal Anatomy & Physiology eLearning application presented above. <br><br>
 > > Players use their creativity to create an avatar that depicts the characteristics of a pathogen in dogs and play a game that mimics that microbes' pathogenicity and the body's response. <br>
 > > file:///C:/Users/Linda/Documents/Old%20Computer%20Files/ePortfolio%202016%20Original/social_media%20_Pathogens%20Against%20the%20Body.pdf
 
-#### Research
+> > #### Research
 > > Research In this research proposal I describe testing a software prototype of the game for knowledge gain and flow using both quantitative (eGameFlow) and qualitative (affective and meta-cognitive strategy) research methods.
 
 
@@ -44,7 +44,7 @@ a presentation and relevant photos curated on Flickr
 > > 
 ## Technical Communication
 > > The following work products demonstrate skills I learned and sharpened in the MSPTC program. Specifically, the Research section includes essays on topics I researched on scientific and technical subjects. The essays in the Writing section shows my ability to write with clarity and style, as well as to organize information while the Editing section is comprised of exercises which correct grammar, and punctuation in given sample sentences according to style guides such as *The Chicago Manual of Style* and the *MLA Handbook*. The blogs demonstrate a form of detailed and informative writing.
-### Researchg
+> > ### Research
 > > #### New Media Theory and Digital Gaming
 > > This essay focuses on New Media Theory generally, and digital games specifically. The historical backgrounds of New Media Theory and games are explored as well as the ways in which they account for phenomena in the social world, their typology, and their relationships to Socio-cognitive Theory and Affective Learning.<br><br>
 > > An Overview of New Media Theory and Digital Gaming: History, Typology, Sequence, and
@@ -56,7 +56,7 @@ Technology: https://github.com/LLLichtenstein/MSPTC-Portfolio/blob/main/research
 > > #### Research Ethics
 > > This essay discusses ethical principles and guidelines as well as the tenets of three great philosophers – Mill, Kant, and Rawles – as they relate to research in Professional and Technical Communication.<br>
 > > https://github.com/LLLichtenstein/MSPTC-Portfolio/blob/main/research_ethics.pdf
-### Writing
+> > ### Writing
 > > #### Use of Verbs in "I Have Dreamed"
 > > This essay on "I Have Dreamed" from The King and I by Oscar and Hammerstein explores the use of verbs in the song, especially the verb dreamed. <br><br>
 > > "I Have Dreamed": https://github.com/LLLichtenstein/MSPTC-Portfolio/blob/main/writing_dreamed.pdf
@@ -66,11 +66,11 @@ Technology: https://github.com/LLLichtenstein/MSPTC-Portfolio/blob/main/research
 > > #### Examination of Red Oval by Kandinsky
 > > This essay, "An Examination of Kandinsky's Painting, Red Oval", considers it in terms of my emotional reactions and its formal elements (color, shape, movement, and line). <br><br>
 > > "An Examination of Kandinsky's Painting, Red Oval": https://github.com/LLLichtenstein/MSPTC-Portfolio/blob/main/writing_kandinsky.pdf
-### Blog
+> > ### Blog
 > > #### Technical Communication for the Visual Artist blog
 > > This blog focuses on technical communication and visual design concepts for web sites. <br>
 > > http://lindaloudesigns.blogspot.com/search?updated-min=2016-01-01T00:00:00-08:00&updated-max=2017-01-01T00:00:00-08:00&max-results=1
-### Editing
+> > ### Editing
 > > #### Editing Illustrations and Websites
 > > This is a critique of The New York City Ballet's print material and web site according to the "List of major concerns editors should have when reviewing illustrations and websites." <br><br>
 > > Critique of New York City Ballet print and website: https://github.com/LLLichtenstein/MSPTC-Portfolio/blob/main/editing_nycb_critique.pdf <br>
