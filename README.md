@@ -5,7 +5,7 @@
 ## Projects
 > > The two projects presented are related to a Veterinary Anatomy and Physiology eLearning application I created. <br><br>
 > > The first project, Usability Study for an Animal Anatomy & Physiology eLearning application, is a usability study I conducted with four biological science undergraduates. In addition to the usability test session documentation, supporting documentation leading up to the test session (including a persona and scenario, competitive analysis and heuristic evaluation, storyboards, wireframe prototype, interview guides and test protocols) are provided as well as post-test session documentation (including statistical analysis of test results, recommendations and conclusions).<br><br>
-> > The second project, Social Media and Gaming, focuses on educational gaming and includes research on testing educational game software, a Flickr gallery depicting Participatory Culture and Social Media, and a game I created called Pathogens Against the Body. <br><br>
+> > The second project, Social Media and Gaming, focuses on educational gaming and includes a game I created called Pathogens Against the Body, research on testing educational game software, and a Flickr gallery depicting Participatory Culture and Social Media. <br><br>
 ### Usability Study for an Animal Anatomy & Physiology eLearning application
 > > For this usability study I created a Veterinary Anatomy and Physiology eLearning application targeted towards biological science undergraduates. As part of the project, I wrote supporting test documentation such as a persona and scenario, competitive analyses, storyboards, prototypes, and test protocols. I conducted usability interviews with the Paper Prototyping with Blank Pages technique with four undergraduate students at a local university. I statistically analyzed the test results and offered recommendations. <br><br>
 > > I presented my study at a graduate student symposium at James Madison University, Harrisonburg, Virginia and at two New Jersey Institute of Technology graduate student events.<br><br>
@@ -13,6 +13,8 @@
 > > The study can be found in the following repository:<br>
 > > https://github.com/LLLichtenstein/Usability-Study-for-an-eLearning-Application/blob/main/README.md <br>
 ### Social Media and Gaming 
+The second project, Social Media and Gaming, focuses on educational gaming and includes research on testing educational game software, a Flickr gallery depicting Participatory Culture and Social Media, and a game I created called Pathogens Against the Body. 
+
 Social Media Game - Pathogens Against the Body, is a social media game whereby players create and do battle with microbial avatars that mimic the characteristics and pathogenicity of infectious organisms found in dogs. Second, Research, In conjunction with the game I provide research I did on gaming in education and a Flickr gallery and presentation on Participatory Culture and Gaming.
 > > Game Participants create a pathogen avatar. This game is part of my Animal Anatomy & Physiology eLearning application and was originally implemented in WordPress.
 
