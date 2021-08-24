@@ -29,6 +29,7 @@
 
 > > In this research proposal I describe testing a software prototype of the game for knowledge gain and flow using both quantitative (eGameFlow) and qualitative (affective and meta-cognitive strategy) research methods.
 > > #### Research Abstract
+> > file:///C:/Users/Linda/Documents/Old%20Computer%20Files/ePortfolio%202016%20Original/social_media_abstract.pdf
 > > #### Research Project
 
 > > #### Design - Social Media - Participatory Culture Flickr Gallery and Presentation
