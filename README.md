@@ -23,7 +23,7 @@
 > > https://github.com/LLLichtenstein/MSPTC-Portfolio/blob/main/social_media%20_Pathogens%20Against%20the%20Body.pdf<br>
 > > #### Research *Development of an Educational Game Prototype: Assessing Knowledge Gain through Flow*
 > > In this research proposal I describe testing a software prototype of the game for knowledge gain and flow using both quantitative (eGameFlow) and qualitative (affective and meta-cognitive strategy) research methods.
-> > #### &emsp; Abstract
+> > ##### Abstract
 > > &emsp; https://github.com/LLLichtenstein/MSPTC-Portfolio/blob/main/social_media_abstract.pdf <br>
 > > #### &emsp; Research Paper
 > > https://github.com/LLLichtenstein/MSPTC-Portfolio/blob/main/social_media_604_research.pdf <br>
