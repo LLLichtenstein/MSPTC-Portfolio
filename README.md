@@ -5,13 +5,7 @@
 ## Projects
 > > The two projects presented are related to a Veterinary Anatomy and Physiology eLearning application I created. <br><br>
 > > The first project is a usability study I conducted with four biological science undergraduates. In addition to the usability test session documentation, supporting documentation leading up to the test session (including a persona and scenario, competitive analysis and heuristic evaluation, storyboards, wireframe prototype, interview guides and test protocols) are provided as well as post-test session documentation (including statistical analysis of test results, recommendations and conclusions).<br><br>
-
 > > The second project is a social media game whereby players create and do battle with microbial avatars that mimic the characteristics and pathogenicity of infectious organisms found in dogs. In conjunction with the game I provide research I did on gaming in education and a Flickr gallery and presentation on Participatory Culture and Gaming.<br><br>
-
-Participatory Culture and Gaming as well as a presentation and relevant photos curated on Flickr.<br><br>
-
-including accompanying research on gaming in education and Flickr gallery on participatory culture.
-
 ### Usability Study for an Animal Anatomy & Physiology eLearning application
 > > For this usability study I created a Veterinary Anatomy and Physiology eLearning application targeted towards biological science undergraduates. As part of the project, I wrote supporting test documentation such as a persona and scenario, competitive analyses, storyboards, prototypes, and test protocols. I conducted usability interviews with the Paper Prototyping with Blank Pages technique with four undergraduate students at a local university. I statistically analyzed the test results and offered recommendations. <br><br>
 > > I presented my study at a graduate student symposium at James Madison University, Harrisonburg, Virginia and at two New Jersey Institute of Technology graduate student events.<br><br>
@@ -35,6 +29,9 @@ including accompanying research on gaming in education and Flickr gallery on par
 > > #### Research Project
 
 > > #### Design - Social Media - Participatory Culture Flickr Gallery and Presentation
+
+a presentation and relevant photos curated on Flickr
+
 > > I curated this Flickr Gallery and created this presentation to depict educational gaming as it relates to Participatory Culture and Social Media.
 > > ##### Flickr Gallery
 > > The gallery can be found at the following URL: https://www.flickr.com/photos/60721421@N07/galleries/72157626372437622/
