@@ -17,7 +17,7 @@
 > > 1. Social Media Game *Pathogens Against the Body*, <br>
 > > 2. Research on testing an educational game prototye for knowledge gain and flow, and  <br>
 > > 3. Flickr gallery and presentation on Participatory Culture and Social Media in educational gaming. <br>
-> > #### Social Media Game *Pathogens Against the Body*
+#### Social Media Game *Pathogens Against the Body*
 > > Originally implemented in WordPress, I created this social media game to accompany my Animal Anatomy & Physiology eLearning application presented above. <br><br>
 > > Players use their creativity to create an avatar that depicts the characteristics of a pathogen in dogs and play a game that mimics that microbes' pathogenicity and the body's response. <br>
 > > file:///C:/Users/Linda/Documents/Old%20Computer%20Files/ePortfolio%202016%20Original/social_media%20_Pathogens%20Against%20the%20Body.pdf
