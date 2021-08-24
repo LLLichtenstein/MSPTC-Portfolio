@@ -16,7 +16,7 @@
 > > In this section, I focus on educational gaming in three ways.<br>
 > > 1. Social Media Game *Pathogens Against the Body*, <br>
 > > 2. Research *Development of an Educational Game Prototype: Assessing Knowledge Gain through Flow*, and  <br>
-> > 3. Flickr gallery and presentation on Participatory Culture and Social Media in educational gaming. <br>
+> > 3. Flickr *Social Media - Participatory Culture*  <br>
 > > #### Social Media Game *Pathogens Against the Body*
 > > Originally implemented in WordPress, I created this social media game to accompany my Animal Anatomy & Physiology eLearning application presented above. <br><br>
 > > Players use their creativity to create an avatar that depicts the characteristics of a pathogen in dogs and play a game that mimics that microbes' pathogenicity and the body's response. <br>
@@ -24,12 +24,12 @@
 > > #### Research *Development of an Educational Game Prototype: Assessing Knowledge Gain through Flow*
 > > In this research proposal I describe testing a software prototype of the game for knowledge gain and flow using both quantitative (eGameFlow) and qualitative (affective and meta-cognitive strategy) research methods.
 > > ##### Abstract
-> > &emsp; https://github.com/LLLichtenstein/MSPTC-Portfolio/blob/main/social_media_abstract.pdf <br>
-> > #### &emsp; Research Paper
+> > https://github.com/LLLichtenstein/MSPTC-Portfolio/blob/main/social_media_abstract.pdf <br>
+> > ##### Research Paper
 > > https://github.com/LLLichtenstein/MSPTC-Portfolio/blob/main/social_media_604_research.pdf <br>
-> > #### Design &emsp; - Social Media - Participatory Culture Flickr Gallery and Presentation
+> > #### Flickr *Social Media - Participatory Culture*
 > > Flickr Gallery and created this presentation to depict educational gaming as it relates to Participatory Culture and Social Media.
-
+Flickr gallery and presentation on Participatory Culture and Social Media in educational gaming.
 a presentation and relevant photos curated on Flickr
 
 > > I curated this Flickr Gallery and created this presentation to depict educational gaming as it relates to Participatory Culture and Social Media.
