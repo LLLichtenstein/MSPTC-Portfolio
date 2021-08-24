@@ -24,9 +24,9 @@
 > > #### Research *Development of an Educational Game Prototype: Assessing Knowledge Gain through Flow*
 > > In this research proposal I describe testing a software prototype of the game for knowledge gain and flow using both quantitative (eGameFlow) and qualitative (affective and meta-cognitive strategy) research methods.
 > > ##### Abstract
-> > https://github.com/LLLichtenstein/MSPTC-Portfolio/blob/main/social_media_abstract.pdf <br>
+> > https://github.com/LLLichtenstein/MSPTC-Portfolio/blob/main/social_media_abstract.pdf
 > > ##### Research Paper
-> > https://github.com/LLLichtenstein/MSPTC-Portfolio/blob/main/social_media_604_research.pdf <br>
+> > https://github.com/LLLichtenstein/MSPTC-Portfolio/blob/main/social_media_604_research.pdf
 > > #### Flickr *Social Media - Participatory Culture*
 > > Flickr Gallery and created this presentation to depict educational gaming as it relates to Participatory Culture and Social Media.
 Flickr gallery and presentation on Participatory Culture and Social Media in educational gaming.
