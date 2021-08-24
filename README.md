@@ -25,17 +25,17 @@
 > > In this research proposal I describe testing a software prototype of the game for knowledge gain and flow using both quantitative (eGameFlow) and qualitative (affective and meta-cognitive strategy) research methods.
 > > #### &emsp; Abstract
 > > &emsp; https://github.com/LLLichtenstein/MSPTC-Portfolio/blob/main/social_media_abstract.pdf <br>
-> > &emsp; #### Research Paper
+> > #### &emsp; Research Paper
 > > https://github.com/LLLichtenstein/MSPTC-Portfolio/blob/main/social_media_604_research.pdf <br>
-> > &emsp; #### Design - Social Media - Participatory Culture Flickr Gallery and Presentation
+> > #### Design &emsp; - Social Media - Participatory Culture Flickr Gallery and Presentation
 > > Flickr Gallery and created this presentation to depict educational gaming as it relates to Participatory Culture and Social Media.
 
 a presentation and relevant photos curated on Flickr
 
 > > I curated this Flickr Gallery and created this presentation to depict educational gaming as it relates to Participatory Culture and Social Media.
-> > &emsp; ##### Flickr Gallery
+> > ##### &emsp; Flickr Gallery
 > > The gallery can be found at the following URL: https://www.flickr.com/photos/60721421@N07/galleries/72157626372437622/
-> > &emsp; ##### Presentation
+> > ##### &emsp; Presentation
 > > https://github.com/LLLichtenstein/MSPTC-Portfolio/blob/main/social_media_presentation.pdf
 > > 
 ## Technical Communication
