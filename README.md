@@ -1,12 +1,16 @@
 # Professional and Technical Communication Master's Degree (MSPTC) Portfolio
 > > This portfolio consists of two major sections, Projects and Technical Communication, I completed as part of my Master's Degree in the MSPTC program at New Jersey Institute of Technology, Newark, New Jersey. <br><br>
-> > The projects section details my usability study and social media game and accompanying research and supporting work products. <br><br>
+> > The projects section details my usability study and social media game and accompanying research and Flickr gallery. <br><br>
 > > The Technical Communication section is mainly comprised of essays I wrote on various topics and exercises in grammar and punctuation.<br><br>
 ## Projects
 > > The two projects presented are related to a Veterinary Anatomy and Physiology eLearning application I created. <br><br>
 > > The first project is a usability study I conducted with four biological science undergraduates. In addition to the usability test session documentation, supporting documentation leading up to the test session (including a persona and scenario, competitive analysis and heuristic evaluation, storyboards, wireframe prototype, interview guides and test protocols) are provided as well as post-test session documentation (including statistical analysis of test results, recommendations and conclusions).<br><br>
 
-The second project is a social media game whereby players create a microbial avatar. In conjunction with the game I provide research I did on Participatory Culture and Gaming and as well as a presentation and relevant photos curated on Flickr.<br><br>
+> > The second project is a social media game whereby players create and do battle with microbial avatars that mimic the characteristics and pathogenicity of infectious organisms found in dogs. In conjunction with the game I provide research I did on gaming in education and a Flickr gallery and presentation on Participatory Culture and Gaming.<br><br>
+
+Participatory Culture and Gaming as well as a presentation and relevant photos curated on Flickr.<br><br>
+
+including accompanying research on gaming in education and Flickr gallery on participatory culture.
 
 ### Usability Study for an Animal Anatomy & Physiology eLearning application
 > > For this usability study I created a Veterinary Anatomy and Physiology eLearning application targeted towards biological science undergraduates. As part of the project, I wrote supporting test documentation such as a persona and scenario, competitive analyses, storyboards, prototypes, and test protocols. I conducted usability interviews with the Paper Prototyping with Blank Pages technique with four undergraduate students at a local university. I statistically analyzed the test results and offered recommendations. <br><br>
@@ -15,20 +19,28 @@ The second project is a social media game whereby players create a microbial ava
 > > The study can be found in the following repository:<br>
 > > https://github.com/LLLichtenstein/Usability-Study-for-an-eLearning-Application/blob/main/README.md <br>
 ### Social Media Game - Pathogens Against the Body
-> > In this game, players create a pathogen avatar. It was originally implemented in WordPress.
+> > Game Participants create a pathogen avatar. This game is part of my Animal Anatomy & Physiology eLearning application and was originally implemented in WordPress.
+
+> > Research In this research proposal I describe testing a software prototype of the game for knowledge gain and flow using both quantitative (eGameFlow) and qualitative (affective and meta-cognitive strategy) research methods.
+
+> > Flickr Gallery and created this presentation to depict educational gaming as it relates to Participatory Culture and Social Media.
+
+> > #### The Game
+> > In this game, originally implemented in WordPress, players create a pathogen avatar.<br>
+> > file:///C:/Users/Linda/Documents/Old%20Computer%20Files/ePortfolio%202016%20Original/social_media%20_Pathogens%20Against%20the%20Body.pdf
+
+#### Research
+> > In this research proposal I describe testing a software prototype of the game for knowledge gain and flow using both quantitative (eGameFlow) and qualitative (affective and meta-cognitive strategy) research methods.
+> > #### Research Abstract
+> > #### Research Project
+
 > > #### Design - Social Media - Participatory Culture Flickr Gallery and Presentation
 > > I curated this Flickr Gallery and created this presentation to depict educational gaming as it relates to Participatory Culture and Social Media.
 > > ##### Flickr Gallery
 > > The gallery can be found at the following URL: https://www.flickr.com/photos/60721421@N07/galleries/72157626372437622/
 > > ##### Presentation
 > > https://github.com/LLLichtenstein/MSPTC-Portfolio/blob/main/social_media_presentation.pdf
-> > #### Website
-> > Participants create a pathogen avatar. This game is part of my Animal Anatomy & Physiology eLearning application and was originally implemented in WordPress.<br>
-> > file:///C:/Users/Linda/Documents/Old%20Computer%20Files/ePortfolio%202016%20Original/social_media%20_Pathogens%20Against%20the%20Body.pdf
-> > #### Research
-> > In this research proposal I describe testing a software prototype of the game for knowledge gain and flow using both quantitative (eGameFlow) and qualitative (affective and meta-cognitive strategy) research methods.
-> > #### Research Abstract
-> > #### Research Project
+> > 
 ## Technical Communication
 > > The following work products demonstrate skills I learned and sharpened in the MSPTC program. Specifically, the Research section includes essays on topics I researched on scientific and technical subjects. The essays in the Writing section shows my ability to write with clarity and style, as well as to organize information while the Editing section is comprised of exercises which correct grammar, and punctuation in given sample sentences according to style guides such as *The Chicago Manual of Style* and the *MLA Handbook*. The blogs demonstrate a form of detailed and informative writing.
 ### Researchg
