@@ -19,8 +19,6 @@
 > > 3. Flickr *Social Media - Participatory Culture*  <br>
 > > #### Social Media Game *Pathogens Against the Body*
 > > Originally implemented in WordPress, I created this social media game to accompany my Animal Anatomy & Physiology eLearning application presented above. <br><br>
-> > Players use their creativity to create an avatar that depicts the characteristics of a pathogen in dogs and play a game that mimics that microbes' pathogenicity and the body's response. <br>
-> > https://github.com/LLLichtenstein/MSPTC-Portfolio/blob/main/social_media%20_Pathogens%20Against%20the%20Body.pdf<br>
 > > #### Research *Development of an Educational Game Prototype: Assessing Knowledge Gain through Flow*
 > > In this research proposal I describe testing a software prototype of the game for knowledge gain and flow using both quantitative (eGameFlow) and qualitative (affective and meta-cognitive strategy) research methods.
 > > ##### Abstract
@@ -28,16 +26,11 @@
 > > ##### Research Paper
 > > https://github.com/LLLichtenstein/MSPTC-Portfolio/blob/main/social_media_604_research.pdf
 > > #### Flickr *Social Media - Participatory Culture*
-> > Flickr Gallery and created this presentation to depict educational gaming as it relates to Participatory Culture and Social Media.
-Flickr gallery and presentation on Participatory Culture and Social Media in educational gaming.
-a presentation and relevant photos curated on Flickr
-
-> > I curated this Flickr Gallery and created this presentation to depict educational gaming as it relates to Participatory Culture and Social Media.
-> > ##### &emsp; Flickr Gallery
+> > I curated this Flickr Gallery and created this accompanying presentation to depict educational gaming as it relates to Participatory Culture and Social Media.
+> > ##### Flickr Gallery
 > > The gallery can be found at the following URL: https://www.flickr.com/photos/60721421@N07/galleries/72157626372437622/
-> > ##### &emsp; Presentation
+> > ##### Presentation
 > > https://github.com/LLLichtenstein/MSPTC-Portfolio/blob/main/social_media_presentation.pdf
-> > 
 ## Technical Communication
 > > The following work products demonstrate skills I learned and sharpened in the MSPTC program. Specifically, the Research section includes essays on topics I researched on scientific and technical subjects. The essays in the Writing section shows my ability to write with clarity and style, as well as to organize information while the Editing section is comprised of exercises which correct grammar, and punctuation in given sample sentences according to style guides such as *The Chicago Manual of Style* and the *MLA Handbook*. The blogs demonstrate a form of detailed and informative writing.
 > > ### **Research**
