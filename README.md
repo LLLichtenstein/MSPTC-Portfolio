@@ -18,7 +18,7 @@
 > > 2. Research *Development of an Educational Game Prototype: Assessing Knowledge Gain through Flow*, and  <br>
 > > 3. Flickr *Social Media - Participatory Culture*  <br>
 > > #### Social Media Game *Pathogens Against the Body*
-> > Originally implemented in WordPress, I created this social media game to accompany my Animal Anatomy & Physiology eLearning application presented above. <br>
+> > Originally implemented in WordPress, I proposed a social media game to accompany my Animal Anatomy & Physiology eLearning application presented above. <br>
 > > #### Research *Development of an Educational Game Prototype: Assessing Knowledge Gain through Flow*
 > > In this research proposal I describe testing a software prototype of the game for knowledge gain and flow using both quantitative (eGameFlow) and qualitative (affective and meta-cognitive strategy) research methods.
 > > ##### Abstract
